@@ -1,0 +1,7 @@
+{
+  "extends": ["expo/tsconfig.base", "../../tsconfig.json"],
+  "compilerOptions": {
+    "strict": true,
+    "strictNullChecks": true
+  }
+}

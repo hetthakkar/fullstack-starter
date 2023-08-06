@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "my-app",
+    
+    "owner": "hetthakkar",
+    "slug": "my-app",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  },
+  "scheme": "myapp"
+}
