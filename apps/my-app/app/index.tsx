@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View } from "react-native";
-import Welcome from "../components/Posts";
+import Posts from "../components/Posts";
 
 import { StyleSheet } from "react-native";
 import PostForm from "../components/PostForm";
@@ -13,7 +13,7 @@ export default function Page() {
           Posts
         </Text>
       </View>
-      <Welcome />
+      <Posts />
       <PostForm />
     </View>
   );
